@@ -2,6 +2,8 @@
 
 ❓ Ce repo Github sert **uniquement** pour héberger le code de [notre site web](https://games-factory-studios.netlify.app/)
 
+-------------------------------
+
 # 📜 License
 
 ❌ Toute copie du site a des fins illégales, sera poursuivie en justice
